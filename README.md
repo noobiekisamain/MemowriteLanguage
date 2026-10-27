@@ -1,4 +1,4 @@
-# Memowrite 📝
+# Memowrite 📝 THE SOURCE CODE IS OUTDATED!
 
 ![Platform - Windows Only](https://img.shields.io/badge/Platform-Windows%20Only-0078D6?style=for-the-badge&logo=windows)
 ![Language - Python 3.8+](https://img.shields.io/badge/Language-Python%203.8%2B-3776AB?style=for-the-badge&logo=python)
