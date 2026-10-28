@@ -1,7 +1,7 @@
 # Memowrite 📝 THE SOURCE CODE IS OUTDATED!
 
 ![Platform - Windows Only](https://img.shields.io/badge/Platform-Windows%20Only-0078D6?style=for-the-badge&logo=windows)
-![Language - Python 3.8+](https://img.shields.io/badge/Language-Python%203.8%2B-3776AB?style=for-the-badge&logo=python)
+![Language - Python](https://img.shields.io/badge/Language-Python%203.8%2B-3776AB?style=for-the-badge&logo=python)
 ![IDE - Memowrite Studio](https://img.shields.io/badge/IDE-Memowrite%20Studio-FF6F00?style=for-the-badge)
 ![Extension - VS Code](https://img.shields.io/badge/VS%20Code-Extension%20Available-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Beginner Friendly](https://img.shields.io/badge/beginner-friendly-brightgreen)
