@@ -6,7 +6,7 @@
 ![Extension - VS Code](https://img.shields.io/badge/VS%20Code-Extension%20Available-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Beginner Friendly](https://img.shields.io/badge/beginner-friendly-brightgreen)
 
-**Memowrite** is an expressive, beginner-friendly programming language built on Python. It offers a clean, English-like syntax paired with an extensive set of built-in standard libraries for 2D graphics, animation, desktop GUI creation, persistent key-value memory, sound synthesis, and interactive application development.
+**Memowrite** is an expressive, beginner-friendly programming language built on Python[outdated]. It offers a clean, English-like syntax paired with an extensive set of built-in standard libraries for 2D graphics, animation, desktop GUI creation, persistent key-value memory, sound synthesis, and interactive application development.
 
 > ⚠️ **Platform Notice:** Memowrite is built and optimized exclusively for **Windows**. Win32/Windows-specific APIs, launchers (`.exe`), installer configurations, and desktop GUI integrations require a Windows environment.
 
